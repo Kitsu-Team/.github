@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-[![Codacy Analysis CLI](https://github.com/Kitsu-Team/NimbusB0T/actions/workflows/main.yml/badge.svg)](https://github.com/Kitsu-Team/NimbusB0T/actions/workflows/main.yml) [![Testing/Build](https://github.com/Kitsu-Team/NimbusB0T_GO/actions/workflows/main.yml/badge.svg)](https://github.com/Kitsu-Team/NimbusB0T_GO/actions/workflows/main.yml)
+[![Codacy Analysis CLI](https://github.com/Kitsu-Team/NimbusB0T/actions/workflows/main.yml/badge.svg)](https://github.com/Kitsu-Team/NimbusB0T/actions/workflows/main.yml) [![Testing/Build](https://github.com/Kitsu-Team/NimbusB0T_GO/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Kitsu-Team/NimbusB0T_GO/actions/workflows/main.yml)
